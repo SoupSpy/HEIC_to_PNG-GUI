@@ -6,6 +6,12 @@ This project provides a modern GUI-based application for converting HEIC images 
 
 ---
 
+## 🖥️ GUI Preview
+
+![gui](gui.png)
+
+---
+
 ## ✨ Features
 
 * 🖼️ Convert all `.HEIC` files in a selected folder to `.PNG` format
